@@ -5,5 +5,4 @@ const SearchResultLIst = () => {
     <div>SearchResultLIst</div>
   )
 }
-
 export default SearchResultLIst
