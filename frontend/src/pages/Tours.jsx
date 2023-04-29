@@ -5,5 +5,4 @@ const Tours = () => {
     <div>Tours</div>
   )
 }
-
 export default Tours
