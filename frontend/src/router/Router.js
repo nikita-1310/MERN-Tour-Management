@@ -7,6 +7,7 @@ import Login from './../pages/Login';
 import SearchResultList from './../pages/SearchResultList';
 import Register from './../pages/Register';
 
+
 const Router = () => {
   return (
     <Routes>
