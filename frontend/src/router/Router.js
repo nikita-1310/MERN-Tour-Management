@@ -4,7 +4,7 @@ import Home from './../pages/Home';
 import Tours from './../pages/Tours';
 import TourDetails from './../pages/TourDetails';
 import Login from './../pages/Login';
-import SearchResultList from './../pages/SearchResultList';
+import SearchResultList from '../pages/SearchResultList';
 import Register from './../pages/Register';
 
 const Router = () => {
