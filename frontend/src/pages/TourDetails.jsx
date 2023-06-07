@@ -120,5 +120,4 @@ const TourDetails = () => {
     </section>
   </>
 }
-
 export default TourDetails
