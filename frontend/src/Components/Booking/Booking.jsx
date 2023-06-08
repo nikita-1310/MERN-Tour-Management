@@ -6,7 +6,7 @@ const Booking = ({tour , avgRating}) => {
 
     const {price, reviews} = tour
     const handleChange = e=>{
-        
+       
     }
 
   return <div className="booking">
