@@ -7,6 +7,7 @@ const tourSchema = new mongoose.Schema(
       unique: true,
     },
     city: {
+      
       type: String,
       required: true,
     },
